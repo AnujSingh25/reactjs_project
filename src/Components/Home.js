@@ -18,7 +18,7 @@ const Home = () => {
             <Container>
                 <Button color="primary" outline >
                     Nothing
-                </Button>
+                </Button> 
             </Container>
         </div>
     )
